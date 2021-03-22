@@ -1,0 +1,11 @@
+header { grid-area: h; }
+main   { grid-area: m; }
+footer { grid-area: f; }
+
+body {
+  display: grid;
+  grid: " h   h   h  " auto
+        " m   m   m  " auto
+        " f   f   f  " auto
+        / 1fr 1fr 1fr;
+}
