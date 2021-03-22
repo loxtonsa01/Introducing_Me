@@ -1,0 +1,60 @@
+header {
+    background-color: #DDDDDD;
+    display: flex;
+    align-items: center;
+  }
+  
+  header h1 {
+    font-family: 'Akaya Kanadaka', cursive;
+  }
+  
+  nav {
+    background-color: #DDDDDD;
+  }
+  
+  nav a {
+    font-family: 'Akaya Telivigala', sans-serif;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    display: block;
+    margin-bottom: 0.25em;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+h2 {
+    font-family: 'Indie Flower', cursive;
+}
+
+  main {
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+  }
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+  img {
+      float: right;
+      margin-bottom: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+  
+  footer {
+    height: 5em;
+    background-color: #DDDDDD;
+  }
+  
+  footer p {
+    text-align: center;
+  }
+  
